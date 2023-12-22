@@ -1,0 +1,13 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --miscwhite: rgba(255, 255, 255, 1);
+  --texttext: rgba(37, 32, 32, 1);
+}
